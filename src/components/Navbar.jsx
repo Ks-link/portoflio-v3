@@ -18,7 +18,7 @@ function Navbar() {
                 </ul>
             </motion.nav>
         </>
-    )
-}
+    );
+};
 
 export default Navbar;
